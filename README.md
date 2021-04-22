@@ -14,3 +14,5 @@ chamuchamuchamuchamu
 
 branch test testbranch
 
+fetch remote repository
+
